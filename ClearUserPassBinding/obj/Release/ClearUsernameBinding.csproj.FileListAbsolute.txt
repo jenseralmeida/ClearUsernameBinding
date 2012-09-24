@@ -3,3 +3,8 @@ C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUs
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ResolveAssemblyReference.cache
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.dll
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\ClearUserPassBinding\bin\Release\ClearUsernameBinding.dll
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\ClearUserPassBinding\bin\Release\ClearUsernameBinding.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ResolveAssemblyReference.cache
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.dll
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\ClearUserPassBinding\obj\Release\ClearUsernameBinding.pdb

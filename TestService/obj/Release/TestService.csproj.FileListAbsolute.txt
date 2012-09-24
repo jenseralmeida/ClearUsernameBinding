@@ -8,3 +8,13 @@ C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUs
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\ResolveAssemblyReference.cache
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\TestService.exe
 C:\Documents and Settings\naveh\My Documents\Visual Studio 2008\Projects\ClearUsernameBinding\TestService\obj\Release\TestService.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\TestService.exe.config
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\obj\Release\TestService.exe
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\obj\Release\TestService.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\TestService.exe
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\TestService.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\ClearUsernameBinding.dll
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\MyUsernameValidator.dll
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\ClearUsernameBinding.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\bin\Release\MyUsernameValidator.pdb
+P:\Dropbox\Trabalho\Triscal\Documentos\wcf authentication\CelarUsernameBinding\ClearUsernameBinding\TestService\obj\Release\ResolveAssemblyReference.cache
